@@ -1,5 +1,5 @@
 # Download Portal SDK 
- <br/> Download 5.0.303.2711 : Production,Fairfax<br/> Download 5.0.303.2292 : Blackforest,Mooncake 
+ <br/> Download 5.0.303.2712 : Fairfax<br/> Download 5.0.303.2711 : Production<br/> Download 5.0.303.2292 : Blackforest,Mooncake 
 
  Each version of the SDK is supported for 120 days. Extensions must upgrade to a newer version of the SDK within 120 days from the release of the SDK version they are currently using as runtime backward compatibility is not supported beyond that.  
 
