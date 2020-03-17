@@ -219,9 +219,6 @@ Flags can be enabled for all users in one or more deployments by using an extens
 <a name="feature-flags-extension-flags-other-feature-flag-services"></a>
 ### Other feature flag services
 
-<!--TODO: Determine whether
- ?feature.disablebladecustomization still qualifies as being a feature flag. -->
-
 For more information about extension flags, see [https://docs.microsoft.com/en-us/vsts/articles/phase-features-with-feature-flags](https://docs.microsoft.com/en-us/vsts/articles/phase-features-with-feature-flags).
 
 You can ask questions on Stackoverflow with the tag [ibiza](https://stackoverflow.microsoft.com/questions/tagged/ibiza).
@@ -313,8 +310,6 @@ The following are the feature flags that are invoked with the syntax: `feature.<
 **feature.feedback**:  Disables the feedback pane. A value of `true` enables the feedback pane, and a value of `false`  disables it.
 
 **feature.forceiris**:  Forces the Portal to query IRIS even if the time limit  has not expired.  The  time limit is 24 hours.
-
-**feature.fullwidth**:  Forces all resource menu blades to be opened maximized.
 
 **feature.hideavatartenant**: Reserved for internal Azure Portal use. <!-- Hides the directory name under the user's name in the avatar menu. -->
 
