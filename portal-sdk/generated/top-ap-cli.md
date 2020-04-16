@@ -29,6 +29,8 @@ The following steps detail the one time configuration that must be applied to au
     1. Click the 'Get the tools' button in the top right corner
     1. Optional. Follow steps 1 to install node.js and npm if not already done so.
     1. Follow step 2 to install vsts-npm-auth node.
+    1. From command prompt run the following:
+         npm install -g vsts-npm-auth
     1. Add a .npmrc file to your project or empty directory with the following content
         ```
         registry=https://msazure.pkgs.visualstudio.com/_packaging/AzurePortal/npm/registry/
